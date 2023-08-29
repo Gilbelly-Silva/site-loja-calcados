@@ -1,0 +1,119 @@
+body{
+    font-weight: 400;
+    font-family:Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.2em;
+    margin: 0;
+}
+
+section{
+    margin: 40px;
+}
+
+.nav-link{
+    color: black;
+}
+
+
+h1{
+    font-size: 63px;
+    color:black;
+    padding: 15px;
+    color: azure;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color:grey;
+    
+}
+
+#about-area {
+    background-color: #ececec;
+    padding-top: 30px;
+}
+
+
+.main-title {
+    color: #444;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+.about-title {
+    font-size: 17px;
+    color: #444;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+
+#about-list li {
+    line-height: 30px;
+}
+
+#team-area{
+    background-color: #ececec;
+    padding-top: 80px;   
+    
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top {
+    width: 80%;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+}
+
+.card{
+    border:none;
+    padding: 1.5em .5em .5em;
+    text-align: center;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#about-produtos{
+    background-color: #ececec;
+    padding-top: 80px; 
+}
+
+.card-produtos{
+    border:ridge;
+    padding: 1.5em .5em .5em;
+    text-align: center;
+    margin: 10px;
+}
+
+#contact-area{
+    text-align: center;
+    background-color:#ececec;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.ancora{
+    color: black;
+}
+
+
+
